@@ -1,3 +1,5 @@
+类似于MKMapView-Like 弹出popover框
+
 ![Example Screenshot](SampleAssets/CalloutScreenshot.png)
 
 
